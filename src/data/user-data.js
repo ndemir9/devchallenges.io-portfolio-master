@@ -1,5 +1,5 @@
 import { nanoid } from "nanoid"
-import avatar from "../assets/img/avatar.PNG"
+import avatar from "../assets/img/avatar.png"
 
 export const user_data = {
     id: nanoid(),
